@@ -19,7 +19,7 @@ cliAppsToInstall="jq,telnet,wget,grep,awscli,kubectl,docker,git,python@2.7,pytho
 desktopAppsToInstall="google-chrome,flock,iterm2,visual-studio-code,sublime-text,lens,thunderbird,authy,clipy,zoom,openvpn"
 
 # terraform required versions, installed using tfenv
-terraformRequiredVersions="0.11.14,0.14.8"
+terraformRequiredVersions="0.11.15,0.14.8"
 
 
 # install brew if not installed already
